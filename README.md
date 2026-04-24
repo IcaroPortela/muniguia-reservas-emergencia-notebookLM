@@ -1,4 +1,4 @@
-# muniguia-reservas-emergencia-notebookLM
+# miniguia-reservas-emergencia-notebookLM
 Introdução:
 A melhor reserva de emergência combina alta liquidez (resgate rápido) e baixo risco.
 Por isso resolvi criar um mini guia para orientar pessoas sobre qual o melhor caminho para uma boa reserva de emergência e orientação para uma renda fixa segura.
